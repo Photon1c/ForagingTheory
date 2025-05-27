@@ -2,6 +2,8 @@
 
 Welcome to Buffet Race! A 3D foraging simulation and playground for exploring natural and artificial intelligence, resource competition, and more. Built with React, Three.js, and TypeScript.
 
+![BuffetRace](media/buffetrace.gif)
+
 ## 🚀 Features
 - 3D race where AI players compete to collect food
 - Adjustable player and food count
