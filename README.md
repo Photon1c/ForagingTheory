@@ -2,6 +2,8 @@
 
 Welcome to Buffet Race! A 3D foraging simulation and playground for exploring natural and artificial intelligence, resource competition, and more. Built with React, Three.js, and TypeScript.
 
+### Update 6.1.2025 Version 2 is available [HERE](https://github.com/Photon1c/ForagingTheoryv2)  
+
 ![BuffetRace](media/buffetrace.gif)
 
 ## 🚀 Features
